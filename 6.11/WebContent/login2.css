@@ -1,0 +1,42 @@
+.whole{
+	width:30%;
+	height:40%;
+	min-width:400px;
+	margin:0 auto;
+	padding-top:10px;
+	padding-bottom:50px;
+	opacity:0.9;
+	filter:alpha(opacity=90);
+	position:relative;
+	margin-top:100px;
+	
+	background-color:rgba(3,0,0,0.5);
+}
+.head{
+	width:100%;
+	height:8%;
+	padding-top:0px;
+	background:#33CCFF;
+	margin-top:0%;
+}
+.background{
+	background-image:url('1.JPG');
+}
+.table {
+    border-collapse: collapse;
+   
+}
+.table, td, th {
+    border: 1px solid black;
+   
+}
+.input{
+border: none;
+
+}
+ .table.input{
+        border: none;
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+    } 
